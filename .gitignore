@@ -7,6 +7,7 @@ flask/
 .idea/
 *.db
 .DS_Store
+tmp/*
 
 # C extensions
 *.so
